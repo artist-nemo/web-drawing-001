@@ -9,13 +9,15 @@ by Nemo <nemo@luxelorev.com>
             
 ```
             Wall Drawing #65 (1971)
-            Lines not short, not straight, crossing and touching, drawn at random, using four colors, uniformly dispersed with maximum density, covering the entire surface of the wall.
+            Lines not short, not straight, crossing and touching, drawn at random, 
+            using four colors, uniformly dispersed with maximum density, covering
+            the entire surface of the wall.
 ```
 
 That's the art! He didn't actually execute the drawing himself.
 
 Usually the art was just a Certificate with the instruction.
-<img align="left" height="400" src="https://billmill.org/images/sol/lewitt_49_instructions.jpg">
+<img align="center" height="400" src="https://billmill.org/images/sol/lewitt_49_instructions.jpg">
 
 ## Web drawing (with the public)
 
@@ -26,10 +28,37 @@ The web page is here:  https://nemo.luxelorev.com/webdrawing001
 The Instructions are here:
 ```
             Web Drawing #001 (2019)
-
+            Populate a web page with 20 x 20 tiles, with each tile having a white background.
+            Each tile will have four lines from one side to another, in one direction only.
+            Each line must be a different color.
 ```
 
-Feel free to send a tile.
+I am collecting tiles from the public, so you can add to this work of art.
+
+### How to make a tile
+
+#### Step #1
+- Laptop (Microsoft Windows):
+    Use Paint and create a tile no bigger than and save as a png or jpg file.
+
+- Laptop (MacOS/Linux): 
+    Use [GIMP]() and create a tile no bigger than and save as a png or jpg file.
+
+- iPhone (iOS):
+    Use ??? and create a tile no bigger than and save as a png or jpg file.
+
+- Android Phone:
+    Use [Paint by ug-lab]() and create a tile no bigger than and save as a png or jpg file.
+
+#### Step #2
+   Follow the instructions (above).
+
+#### Step #3
+   Email me the tile to nemo@luxelorev.com and let me know if you want your first name to be displayed.
+
+Thanks in advance if you send a tile.
+
+You have now helped to create a new piece of art.
           
 
 ## Links
