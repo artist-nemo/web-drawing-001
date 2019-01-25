@@ -23,7 +23,9 @@ Usually the art was just a Certificate with the instruction.
 
 So I created my own instructions for a web page that will contain tiles created and submitted by the public.
 
-The web page is here:  https://nemo.luxelorev.com/webdrawing001
+The web page is here:  https://luxelorev.com/webdrawing001
+
+                       https://tinyurl.com/nemo2019
 
 The Instructions are here:
 ```
