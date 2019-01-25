@@ -39,22 +39,22 @@ I am collecting tiles from the public, so you can add to this work of art.
 
 #### Step #1
 - Laptop (Microsoft Windows):
-    Use Paint and create a tile no bigger than and save as a png or jpg file.
+    Use Paint and create a tile no bigger than 768x1024 and save as a png or jpg file.  Use the biggest line size so it will stand out.
 
 - Laptop (MacOS/Linux): 
-    Use [GIMP]() and create a tile no bigger than and save as a png or jpg file.
+    Use [GIMP](https://www.gimp.org/downloads/)(FREE) and create a tile no bigger than 768x1024 and save as a png file.
 
 - iPhone (iOS):
-    Use ??? and create a tile no bigger than and save as a png or jpg file.
+    Use ??? and create a tile no bigger than 768x1024 and save as a png or jpg file.
 
 - Android Phone:
-    Use [Paint by ug-lab]() and create a tile no bigger than and save as a png or jpg file.
+    Use [Paint by ng-labs](https://play.google.com/store/apps/details?id=com.ng_labs.paint)(FREE) and create a tile no bigger than 1440x2560 and save as a png file.
 
 #### Step #2
    Follow the instructions (above).
 
 #### Step #3
-   Email me the tile to nemo@luxelorev.com and let me know if you want your first name to be displayed.
+   Email the tile to me at nemo@luxelorev.com and let me know if you want your first name to be displayed.
 
 Thanks in advance if you send a tile.
 
