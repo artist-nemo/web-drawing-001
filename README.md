@@ -62,6 +62,12 @@ Feel free to send a tile.
 
 - https://whitney.org/exhibitions/programmed
 
+- https://massmoca.org/sol-lewitt/
+
+- https://diaart.org/program/exhibitions-projects/sol-lewitt-collection-display
+
+- http://radicalart.info/concept/LeWitt/
+
 - https://www.brainpickings.org/2013/06/03/do-it-the-compendium-hans-ulrich-obrist/
 
 - https://ray2401.wordpress.com/2017/08/21/sol-lewitts-art/
