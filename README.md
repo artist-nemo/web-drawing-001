@@ -5,7 +5,7 @@ by Nemo <nemo@luxelorev.com>
 
 ## Sol LeWitt
 
-[Sol LeWitt](http://en.wikipedia.org/wiki/Sol_LeWitt) was an American artist often regarded as the founder of [__Conceptual__](https://en.wikipedia.org/wiki/Conceptual_art) and Minimal art. Some of his most famous works were wall drawings for which he only provided instructions:
+[Sol LeWitt](http://en.wikipedia.org/wiki/Sol_LeWitt) was an American artist (born in Hartford, Connecticut) often regarded as the founder of [__Conceptual__](https://en.wikipedia.org/wiki/Conceptual_art) and Minimal art. Some of his most famous works were wall drawings for which he only provided instructions:
             
 ```
             Wall Drawing #65 (1971)
@@ -21,7 +21,7 @@ Usually the art was just a Certificate with the instruction.
 
 ## Web drawing (with the public)
 
-So I created my own instructions for a web page that will contain tiles created and submitted by the public.
+So I created my own art as instructions for a web page that will contain tiles created and submitted by the public.
 
 The web page is here:  https://luxelorev.com/webdrawing001
 
