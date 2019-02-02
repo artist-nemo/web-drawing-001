@@ -107,6 +107,14 @@ You have now helped to create a new piece of art.
 
 - https://nwn.blogs.com/nwn/2019/01/eastshade-open-world-art-game.html
 
+### Tools used
+
+https://www.qr-code-generator.com/
+
+https://tinyurl.com/create.php
+
+
+
 ## License
 
 Copyright @ 2019 [Nemo](https://nemo.luxelorev.com)
