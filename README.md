@@ -1,7 +1,7 @@
 # web-drawing-001
 web-drawing #001 - Art by Instruction, like Sol LeWitt's Wall Drawings
 
-by Nemo <nemo@luxelorev.com>
+by Nemo <nemo@rkosecurity.com>
 
 ## Sol LeWitt
 
@@ -23,7 +23,7 @@ Usually the art was just a Certificate with the instruction.
 
 So I created my own art as instructions for a web page that will contain tiles created and submitted by the public.
 
-The web page is here:  https://luxelorev.com/webdrawing001
+The web page is here:  https://artist-nemo.github.io/web-drawing-001/webdrawing001.html
 
                        https://tinyurl.com/nemo2019
 
@@ -117,6 +117,6 @@ https://tinyurl.com/create.php
 
 ## License
 
-Copyright @ 2019 [Nemo](https://nemo.luxelorev.com)
+Copyright @ 2019 [Nemo](https://artist-nemo.github.io/web-drawing-001/nemo.html)
 
-<nemo@luxelorev.com>
+<nemo@rkosecurity.com>
